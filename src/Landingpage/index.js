@@ -24,9 +24,9 @@ const Landingpage = props => {
             <LogginSquare>
                 <Row>
                     <Text>
-                        Username: 
+                        Username:
                     </Text>
-                    <input />
+                    <input placeholder="Please enter your username"/>
                 </Row>
                 <Row>
                     <Text>
